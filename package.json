@@ -1,12 +1,16 @@
 {
   "name": "ember-cli-googleyolo",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Addon that loads the googleyolo script that enables the Google One Tap registration and login functionality.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "googleyolo",
+    "registration",
+    "login",
+    "google"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Matt Armstrong",
   "directories": {
     "doc": "doc",
     "test": "tests"

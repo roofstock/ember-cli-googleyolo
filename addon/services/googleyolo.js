@@ -1,11 +1,11 @@
 import Ember from 'ember';
-import Service from '@ember/Service';
 import config from '../config/environment';
 
 // eslint-disable-next-line ember/new-module-imports
 const { get, set } = Ember;
 
-export default Service.extend({
+// eslint-disable-next-line ember/new-module-imports
+export default Ember.Service.extend({
 
     GOOGLEYOLO_SRC: 'https://smartlock.google.com/client',
 
